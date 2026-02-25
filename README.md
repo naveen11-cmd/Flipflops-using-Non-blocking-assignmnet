@@ -69,7 +69,7 @@ endmodule
 ```
 #### SIMULATION OUTPUT
 
-<img width="1920" height="1200" alt="sr_nonblocking_op" src="https://github.com/user-attachments/assets/aa3a3093-486b-4090-abbd-9560c099e8bf" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dffbe87e-fc98-45e7-8e1f-f5ecd6e18dcc" />
 
 
 ### JK Flip-Flop (Non Blocking)
@@ -113,7 +113,7 @@ endmodule
 ```
 #### SIMULATION OUTPUT
 
-<img width="1920" height="1200" alt="jk_nonblocking_op" src="https://github.com/user-attachments/assets/955b72cd-3ab2-48ef-a14e-8a5c8b28228f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d88159ff-87d5-44d8-8f39-237e74c8e14c" />
 
 ### D Flip-Flop (Non Blocking)
 ```verilog
@@ -152,7 +152,7 @@ endmodule
 
 #### SIMULATION OUTPUT
 
-<img width="1920" height="1200" alt="d_nonblocking_op" src="https://github.com/user-attachments/assets/6d625c43-89cf-47f5-a827-545960342ea3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d86b03e-ae6c-4d62-ad8b-ec7549f3a3ca" />
 
 ### T Flip-Flop (Non Blocking)
 ```verilog
@@ -191,7 +191,7 @@ endmodule
 
 #### SIMULATION OUTPUT
 
-<img width="1920" height="1200" alt="t_nonblocking_op" src="https://github.com/user-attachments/assets/a8971502-9baf-467c-b94c-4d8d47b1ad66" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb2dc959-84fd-4ca1-b833-8094c4ae331a" />
 
 ### RESULT
 
